@@ -1,5 +1,6 @@
 # linearregression
 https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0 \
+https://towardsdatascience.com/image-classification-using-convolutional-neural-networks-on-mnist-data-set-406db0c265ed \
  epoch 0 cost 0.3721782 w 5.6815767 b 0.5890573\
  epoch 50 cost 0.030234896 w 5.9355054 b 1.0538161\
  epoch 100 cost 0.027347216 w 5.9154444 b 1.3948505\
